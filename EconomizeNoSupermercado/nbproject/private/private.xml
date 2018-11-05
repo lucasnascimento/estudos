@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/src/java/dao/SupermercadoDao.java</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/src/java/dao/ProdutosDao.java</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/web/MostrarProduto.xhtml</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/src/java/dao/DaoUtil.java</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/src/java/managedbean/ProdutoMB.java</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/web/EscolheSuper.xhtml</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/web/ProdutoCadastrado.xhtml</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/web/ExcluirProduto.xhtml</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/src/java/entidades/TbProdutos.java</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/web/Menu.xhtml</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/web/SupermercadoCadastrado.xhtml</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/src/conf/persistence.xml</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/src/java/managedbean/SupermercadoMB.java</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/web/AlterarProduto.xhtml</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/web/Opcoes.xhtml</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/web/BuscarProduto.xhtml</file>
+            <file>file:/home/vini/Desenvolvimento/tcc/EconomizeNoSupermercado01/web/index.xhtml</file>
+        </group>
+    </open-files>
+</project-private>

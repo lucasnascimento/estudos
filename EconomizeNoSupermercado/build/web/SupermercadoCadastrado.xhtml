@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        <title>Cadastro de supermercados</title>
+    </h:head>
+    <h:body>
+    <h:form>
+        
+        <p:panel header="Cadastre o seu supermercado">
+            <h:panelGrid columns="2" columnClasses="label, value">
+                
+                <h:outputText value="Nome: " />
+                <p:inputText value="#{supermercadoMB.supermercadoTb.nome}"/>
+
+                <h:outputLabel for="cnpj" value="CNPJ: " />
+                <p:inputMask id="cnpj" value="#{supermercadoMB.supermercadoTb.cnpj}" mask="99.999.999/9999-99" />
+
+                <h:outputText value="Bairro: " />
+                <p:inputText value="#{supermercadoMB.supermercadoTb.bairro}" />
+
+                <h:commandButton value="Registrar" action="#{supermercadoMB.salvar()}"/>
+               
+            </h:panelGrid>
+        </p:panel>
+        
+    </h:form>
+    </h:body>
+</html>
